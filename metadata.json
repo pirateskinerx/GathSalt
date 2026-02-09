@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of GathSalt",
+  "description": "A centralized intelligence hub that aggregates and summarizes shared social media content from platforms like Facebook, Instagram, and X using Gemini 3's advanced reasoning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
